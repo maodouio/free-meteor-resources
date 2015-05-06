@@ -4,6 +4,7 @@
 * [视频网站](#视频网站)
 * [开源项目](#开源项目)
 * [电子书](#电子书)
+* [开发工具](#开发工具)
 
 ### 视频网站
 
@@ -24,3 +25,8 @@
 
 #### 英文教程
 * [Your First Meteor Application](http://meteortips.com)
+
+
+### 开发工具
+* [ionic 控件元素] http://ionicframework.com/docs/components/#icons
+* [ionicons 图标名字] http://ionicons.com/
