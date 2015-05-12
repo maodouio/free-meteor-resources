@@ -5,6 +5,7 @@
 * [开源项目](#开源项目)
 * [电子书](#电子书)
 * [开发工具](#开发工具)
+* [资源列表](#资源列表)
 
 ### 视频网站
 
@@ -17,6 +18,9 @@
 
 ### 开源项目
 * [meteorhunt](http://meteorhunt.meteor.com)
+* [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
+* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站
+* [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
 
 ### 电子书
 
@@ -30,3 +34,9 @@
 ### 开发工具
 * [ionic 控件元素] http://ionicframework.com/docs/components/#icons
 * [ionicons 图标名字] http://ionicons.com/
+
+### 资源列表
+* [Mature open-source apps built with Meteor](https://forums.meteor.com/t/mature-open-source-apps-built-with-meteor/935)
+* [A list of awesome open source Meteor.js apps](http://www.meteorapps.co/)
+* [made with meteor](http://madewith.meteor.com/newest)
+* [What are the best Meteor open source projects to learn from?](http://www.quora.com/What-are-the-best-Meteor-open-source-projects-to-learn-from)
