@@ -18,8 +18,9 @@
 
 ### 开源项目
 * [meteorhunt](http://meteorhunt.meteor.com) 物品在线交易类网站，界面类似微信
+* [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
-* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站
+* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站，非常丰富的图片上传功能
 * [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) 一个做衣服类在线电子商务网站
 
