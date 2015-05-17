@@ -75,3 +75,4 @@
 * [made with meteor](http://madewith.meteor.com/newest)
 * [What are the best Meteor open source projects to learn from?](http://www.quora.com/What-are-the-best-Meteor-open-source-projects-to-learn-from)
 * [awesome-meteor](http://gillesfabio.github.io/awesome-meteor/)
+* [meteorbookmarksmdown](https://github.com/dhamaniasad/meteorbookmarksmdown/blob/master/source.md)
