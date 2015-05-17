@@ -48,6 +48,13 @@
   - [Demo] http://www.weworkmeteor.com/jobs
   - [Code] https://github.com/nate-strauser/wework
 
+#### 医疗健康网站
+* clinical 从一个菜谱网站发展到医疗健康网站
+  - [Homepage] https://clinical.meteor.com/
+  - [Demo]https://clinical.meteor.com/#demoApplicationsSection
+  - [Code] https://github.com/awatson1978/meteor-cookbook
+  - [Examples List] https://github.com/awatson1978/meteor-cookbook/tree/master/examples-clinical
+  
 #### 旅行网站
 * wanderlust  
   - [Demo] http://mywanderlust.co/
