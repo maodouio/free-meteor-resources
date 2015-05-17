@@ -18,26 +18,24 @@
 * [eventedmind](https://www.eventedmind.com) 
 
 ### 开源项目
-* [meteor-bbs](https://meteor-bbs.meteor.com) 社区类开源项目
-* [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
-* [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
 * [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
 
-#### 旅行网站
-* wanderlust  
-  - [Demo] http://mywanderlust.co/
-  - [Code] https://github.com/andreioprisan/meteor-travel
+#### 社区运营网站
+* telescope 《Discover Meteor》书中的案例代码
+  - [Homepage] http://www.telescopeapp.org/
+  - [Demo] http://demo2.telescopeapp.org/
+  - [Code]https://github.com/TelescopeJS/Telescope
+
+* meteor-bbs 国内社区bbs类项目，模仿V2EX社区风格
+  - [Demo] https://meteor-bbs.meteor.com
+  - [Code] https://github.com/chuangbo/meteor-bbs
+  - [Code2] https://github.com/limingth/meteor-bbs
 
 #### 产品资讯网站
 * meteorhunt 物品在线交易类网站，界面类似微信
   - [Demo] http://meteorhunt.meteor.com
   - [Code] https://github.com/meteoric/meteorhunt
-
-#### 求职招聘网站
-* weworkmeteor 一个找工作和发招聘的网站，非常丰富的图片上传功能
-  - [Demo] http://www.weworkmeteor.com/jobs
-  - [Code] https://github.com/nate-strauser/wework
 
 #### 电子商务网站
 * Reaction Commerce 一个做衣服类在线电子商务网站
@@ -45,6 +43,19 @@
   - [Demo] https://reactioncommerce.com/
   - [Code] https://github.com/reactioncommerce/reaction
 
+#### 求职招聘网站
+* weworkmeteor 一个找工作和发招聘的网站，非常丰富的图片上传功能
+  - [Demo] http://www.weworkmeteor.com/jobs
+  - [Code] https://github.com/nate-strauser/wework
+
+#### 旅行网站
+* wanderlust  
+  - [Demo] http://mywanderlust.co/
+  - [Code] https://github.com/andreioprisan/meteor-travel
+
+#### 网站模板
+* [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
+* [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
 
 ### 电子书
 
