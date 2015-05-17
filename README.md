@@ -68,6 +68,7 @@
 #### 网站模板
 * [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
+* [Azimuth](https://github.com/mcrider/azimuth) a simple, elegant, and fast CMS 包含用户管理，发帖管理，上传文件等
 
 ### 商业项目
 * [牛展网] http://newfairs.com 会展门户网站
