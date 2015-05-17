@@ -10,8 +10,8 @@
 ### 视频网站
 
 #### 中文视频
-* [node.js上最新HTML5开发框架-Meteor](https://www.codeschool.com/)
-* [Meteor开发者交流日-Kevin技术讲座](http://www.maiziedu.com/lesson/3446/)
+* [node.js上最新HTML5开发框架-Meteor](http://www.maiziedu.com/lesson/3446/)
+* [Meteor开发者交流日-Kevin技术讲座](http://www.youku.com/playlist_show/id_23545469.html)
 
 #### 英文视频
 * [what is meteor?](https://www.eventedmind.com/classes/getting-started-with-meteor/meteor-what-is-meteor)
