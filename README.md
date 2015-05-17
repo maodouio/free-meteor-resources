@@ -18,14 +18,33 @@
 * [eventedmind](https://www.eventedmind.com) 
 
 ### 开源项目
-* [meteorhunt](http://meteorhunt.meteor.com) 物品在线交易类网站，界面类似微信
 * [meteor-bbs](https://meteor-bbs.meteor.com) 社区类开源项目
 * [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) 一个做衣服类在线电子商务网站
-* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站，非常丰富的图片上传功能
 * [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
 * [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
+
+#### 旅行网站
+* wanderlust  
+  - [Demo] http://mywanderlust.co/
+  - [Code] https://github.com/andreioprisan/meteor-travel
+
+#### 产品资讯网站
+* meteorhunt 物品在线交易类网站，界面类似微信
+  - [Demo] http://meteorhunt.meteor.com
+  - [Code] https://github.com/meteoric/meteorhunt
+
+#### 求职招聘网站
+* weworkmeteor 一个找工作和发招聘的网站，非常丰富的图片上传功能
+  - [Demo] http://www.weworkmeteor.com/jobs
+  - [Code] https://github.com/nate-strauser/wework
+
+#### 电子商务网站
+* Reaction Commerce 一个做衣服类在线电子商务网站
+  - [Video] https://www.youtube.com/watch?v=tQm80OYzux8
+  - [Demo] https://reactioncommerce.com/
+  - [Code] https://github.com/reactioncommerce/reaction
+
 
 ### 电子书
 
@@ -34,7 +53,6 @@
 
 #### 英文教程
 * [Your First Meteor Application](http://meteortips.com)
-
 
 ### 开发工具
 * [ionic 控件元素] http://ionicframework.com/docs/components/#icons
@@ -45,3 +63,4 @@
 * [A list of awesome open source Meteor.js apps](http://www.meteorapps.co/)
 * [made with meteor](http://madewith.meteor.com/newest)
 * [What are the best Meteor open source projects to learn from?](http://www.quora.com/What-are-the-best-Meteor-open-source-projects-to-learn-from)
+* [awesome-meteor](http://gillesfabio.github.io/awesome-meteor/)
