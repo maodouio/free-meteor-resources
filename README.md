@@ -18,9 +18,6 @@
 * [eventedmind](https://www.eventedmind.com) 
 
 ### 开源项目
-* [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
-* [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
-
 #### 社区运营网站
 * telescope 《Discover Meteor》书中的案例代码
   - [Homepage] http://www.telescopeapp.org/
@@ -70,13 +67,16 @@
 * [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
 * [Azimuth](https://github.com/mcrider/azimuth) a simple, elegant, and fast CMS 包含用户管理，发帖管理，上传文件等
 
+#### 其他
+* [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
+* [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
+
 ### 商业项目
 * [牛展网] http://newfairs.com 会展门户网站
 * [StarLink] http://starlink.io 基于活动的职场社交app
 * [Workpop] http://workpop.com 洛杉矶地区招聘找工作app
 
 ### 电子书
-
 #### 中文教程
 * [Discover Meteor 中文版](http://zh.discovermeteor.com)
 
