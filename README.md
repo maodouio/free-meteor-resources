@@ -43,6 +43,11 @@
   - [Demo] https://reactioncommerce.com/
   - [Code] https://github.com/reactioncommerce/reaction
 
+#### 任务管理
+* fortnight 一个可以拖拽的看板样式的任务管理工具
+  - [Demo] http://www.fortnight.io/
+  - [Code] https://github.com/oliversong/fortnight
+
 #### 求职招聘网站
 * weworkmeteor 一个找工作和发招聘的网站，非常丰富的图片上传功能
   - [Demo] http://www.weworkmeteor.com/jobs
@@ -54,7 +59,7 @@
   - [Demo]https://clinical.meteor.com/#demoApplicationsSection
   - [Code] https://github.com/awatson1978/meteor-cookbook
   - [Examples List] https://github.com/awatson1978/meteor-cookbook/tree/master/examples-clinical
-  
+
 #### 旅行网站
 * wanderlust  
   - [Demo] http://mywanderlust.co/
