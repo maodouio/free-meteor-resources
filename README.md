@@ -14,15 +14,18 @@
 * [Meteor开发者交流日-Kevin技术讲座](http://www.maiziedu.com/lesson/3446/)
 
 #### 英文视频
+* [what is meteor?](https://www.eventedmind.com/classes/getting-started-with-meteor/meteor-what-is-meteor)
 * [eventedmind](https://www.eventedmind.com) 
 
 ### 开源项目
 * [meteorhunt](http://meteorhunt.meteor.com) 物品在线交易类网站，界面类似微信
+* [meteor-bbs](https://meteor-bbs.meteor.com) 社区类开源项目
 * [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [whatbugsme](https://github.com/rstgroup/whatbugsme) 采用了 alertifyjs 消息窗口特效库
-* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站，非常丰富的图片上传功能
-* [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) 一个做衣服类在线电子商务网站
+* [weworkmeteor](http://www.weworkmeteor.com/jobs) 一个找工作和发招聘的网站，非常丰富的图片上传功能
+* [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
+* [Exartu-CRM](https://github.com/Exartu/Exartu-CRM) CRM and Recruiting Application
 
 ### 电子书
 
