@@ -61,7 +61,21 @@
 * wanderlust  
   - [Demo] http://mywanderlust.co/
   - [Code] https://github.com/andreioprisan/meteor-travel
+  
+### 投票网站
+* meteor-polling
+  - [Demo] https://scotch.io/tutorials/learn-meteor-js-from-scratch-build-a-polling-app
+  - https://github.com/scotch-io/meteor-polling
 
+### 众筹网站
+* spark
+  - [Demo] http://sparkdemo.herokuapp.com/
+  - [Code] https://github.com/leegabriel/spark
+* weifund
+  - [Demo] http://weifund.io/
+  - [Demo] http://weifund-basic.surge.sh/
+  - [Code] https://github.com/weifund/weifund
+  
 #### 网站模板
 * [starter](http://starter.meteor.com/) 网站启动模板 A boilerplate，包含图片上传功能
 * [Orionjs](http://orion-example.meteor.com/) 一款专门用于网站内容管理的CMS系统（用户角色管理、操作权限管理、站内资源管理）
